@@ -17,7 +17,7 @@ NOMBRE= Sabate Matias Facundo
 GMAIL= facundosabatea99@gmail.com
 DNI= 41543323
 -------------------------------------------------------------------------------------
-NOMBRE= Joel Milagaena
+NOMBRE= Joel Miagaena
 GMAIL=joelamanciomiagaena@gmail.com
 DNI=35786622
 --------------------------------------------------------------------------------------
