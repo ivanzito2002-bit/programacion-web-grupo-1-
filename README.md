@@ -1,3 +1,22 @@
 # programacion-web-grupo-1-
 ESTE PROYECTO FUE DESARROLLADO COMO PARTE DE DE LA CURSADA DE PROGRAMACION WEB 1
 CONFIRMADA POR :
+NOMBRE=Amarilla Iara 
+GMAIL=amarillaiarauni@gmail.com
+DNI=44788541
+
+NOMBRE= Ivan Farias
+GMAIL= Ivanzito2002@gmail.com
+DNI=45289468
+
+NOMBRE=Cabrera Thiago
+GMAIL=cabrerathiago2007@gmail.com
+DNI= 47806478
+
+NOMBRE=
+GMAIL=
+DNI=
+
+NOMBRE=
+GMAIL=
+DNI=
