@@ -21,3 +21,6 @@ NOMBRE= Joel Miagaena
 GMAIL=joelamanciomiagaena@gmail.com
 DNI=35786622
 --------------------------------------------------------------------------------------
+> Este es un nuevo bloque de texto.
+> Podés escribir varias líneas.
+> Todo lo que tenga ">" adelante se ve como un cuadro.
