@@ -3,7 +3,9 @@ ESTE PROYECTO FUE DESARROLLADO COMO PARTE DE DE LA CURSADA DE PROGRAMACION WEB 1
 CONFORMADA POR :
 ---------------------------------------------------------------------------------------
 NOMBRE=Amarilla Iara 
+
 GMAIL=amarillaiarauni@gmail.com
+
 DNI=44788541
 
 NOMBRE= Ivan Farias
