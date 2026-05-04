@@ -52,7 +52,7 @@ Roll= Desarrollo de la Web
 
 ---------------------------------------------------
 
-DESCRIPCION PROYECTO=
+DESCRIPCION PROYECTO
 ---------------------------------------------------------------------------------------
 Este proyecto consiste en el desarrollo de una página web orientada a una marca de impresiones 3D.
 
@@ -64,6 +64,9 @@ La web presenta información sobre los servicios de impresión 3D, mostrando de 
 🚀 Tecnologías Utilizadas
 --------------------------------
 HTML
+
 CSS
+
 Visual Studio Code
+
 GitHub
