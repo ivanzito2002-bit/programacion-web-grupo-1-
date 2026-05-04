@@ -8,6 +8,8 @@ GMAIL=amarillaiarauni@gmail.com
 
 DNI=44788541
 
+Roll= Diseño CSS
+
 ---------------------------------------
 
 NOMBRE= Ivan Farias
@@ -15,6 +17,8 @@ NOMBRE= Ivan Farias
 GMAIL= Ivanzito2002@gmail.com
 
 DNI=45289468
+
+Roll= Desarrollo de la Web y del GitHup 
 
 ------------------------------------------
 
@@ -24,6 +28,8 @@ GMAIL=cabrerathiago2007@gmail.com
 
 DNI= 47806478
 
+Roll= Diseño CSS
+
 ---------------------------------------------
 
 NOMBRE= Sabate Matias Facundo
@@ -32,6 +38,7 @@ GMAIL= facundosabatea99@gmail.com
 
 DNI= 41543323
 
+Roll= Maqueta y Desarrollo de la Web 
 ---------------------------------------------
 
 NOMBRE= Joel Miagaena
@@ -39,6 +46,8 @@ NOMBRE= Joel Miagaena
 GMAIL=joelamanciomiagaena@gmail.com
 
 DNI=35786622
+
+Roll= Desarrollo de la Web 
 
 ---------------------------------------------------
 
