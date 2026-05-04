@@ -39,6 +39,7 @@ GMAIL= facundosabatea99@gmail.com
 DNI= 41543323
 
 Roll= Maqueta y Desarrollo de la Web 
+
 ---------------------------------------------
 
 NOMBRE= Joel Miagaena
