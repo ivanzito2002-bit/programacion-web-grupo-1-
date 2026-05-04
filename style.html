@@ -1,0 +1,200 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333333;
+    background-color: #ffffff;
+}
+
+/* ===== CABECERA ===== */
+#cabecera {
+    background-color: #336699;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+#cabecera h1 {
+    font-size: 24px;
+}
+
+#cabecera p {
+    font-size: 13px;
+    margin-top: 5px;
+    color: #cce0f5;
+}
+
+/* ===== NAVEGACION ===== */
+#navegacion {
+    background-color: #224466;
+    overflow: hidden;
+}
+
+#navegacion a {
+    float: left;
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    font-size: 14px;
+}
+
+#navegacion a:hover {
+    background-color: #336699;
+}
+
+#navegacion a.activo {
+    background-color: #336699;
+    font-weight: bold;
+}
+
+/* ===== CONTENIDO PRINCIPAL ===== */
+#contenido {
+    padding: 20px;
+}
+
+#contenido h2 {
+    color: #224466;
+    font-size: 18px;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: 5px;
+}
+
+#contenido p {
+    line-height: 1.6;
+    margin-bottom: 12px;
+}
+
+/* ===== IMAGEN ===== */
+.imagen-ejemplo {
+    width: 100%;
+    height: 150px;
+    background-color: #ddeeff;
+    border: 1px dashed #99aacc;
+    text-align: center;
+    line-height: 150px;
+    color: #666666;
+    font-size: 13px;
+    margin-bottom: 20px;
+}
+
+/* ===== TABLA ===== */
+.tabla-precios {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.tabla-precios th {
+    background-color: #336699;
+    color: white;
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #aaaaaa;
+}
+
+.tabla-precios td {
+    padding: 7px 8px;
+    border: 1px solid #cccccc;
+}
+
+.tabla-precios tr:nth-child(even) td {
+    background-color: #eef3f8;
+}
+
+/* ===== FORMULARIO ===== */
+.formulario label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 4px;
+    margin-top: 10px;
+    font-size: 13px;
+}
+
+.formulario label:first-child {
+    margin-top: 0;
+}
+
+.formulario input[type="text"],
+.formulario input[type="email"],
+.formulario select,
+.formulario textarea {
+    width: 100%;
+    padding: 6px;
+    font-size: 13px;
+    border: 1px solid #aaaaaa;
+}
+
+.formulario textarea {
+    height: 80px;
+    resize: vertical;
+}
+
+.formulario input[type="submit"] {
+    margin-top: 12px;
+    background-color: #336699;
+    color: white;
+    border: none;
+    padding: 8px 18px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.formulario input[type="submit"]:hover {
+    background-color: #224466;
+}
+
+/* ===== SECCION NOSOTROS ===== */
+.integrante {
+    border: 1px solid #cccccc;
+    padding: 12px;
+    margin-bottom: 12px;
+    background-color: #f5f8fc;
+}
+
+.integrante h3 {
+    color: #224466;
+    margin-bottom: 5px;
+}
+
+/* ===== PIE DE PAGINA ===== */
+#pie {
+    background-color: #224466;
+    color: #cccccc;
+    text-align: center;
+    padding: 12px;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+#pie a {
+    color: #aaccee;
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+#pie a:hover {
+    text-decoration: underline;
+}
+
+/* ===== ANIMACION en servicios ===== */
+.servicio {
+    border: 1px solid #cccccc;
+    padding: 12px;
+    margin-bottom: 12px;
+    transition: background-color 0.3s;
+}
+
+.servicio:hover {
+    background-color: #ddeeff;
+}
+
+.servicio h3 {
+    color: #336699;
+    margin-bottom: 5px;
+}
