@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Print3D Studio - Contacto</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div id="cabecera">
+        <h1>Print3D Studio</h1>
+        <p>Impresión 3D personalizada - Merlo, Buenos Aires</p>
+        <button id="btnColor" style="margin-top: 10px; padding: 5px 10px; cursor: pointer; border-radius: 5px; border: none; font-weight: bold; background-color: #ffffff; color: #333;">
+             Modo Oscuro
+        </button>
+    </div>
+
+    <div id="navegacion">
+        <a href="index.html">Inicio</a>
+        <a href="nosotros.html">Nosotros</a>
+        <a href="contacto.html" class="activo">Contacto</a>
+    </div>
+
+    <div id="contenido">
+
+        <h2>Contactanos</h2>
+        <p>Completá el formulario y te respondemos en menos de 24 horas.
+           También podés escribirnos directamente por Instagram o WhatsApp.</p>
+
+        <h2>Formulario de contacto</h2>
+
+        <form class="formulario" action="#" method="post">
+
+            <label for="nombre">Nombre completo:</label>
+            <input type="text" id="nombre" name="nombre" placeholder="Tu nombre y apellido">
+
+            <label for="email">Correo electrónico:</label>
+            <input type="email" id="email" name="email" placeholder="tucorreo@gmail.com">
+
+            <label for="telefono">Teléfono (opcional):</label>
+            <input type="text" id="telefono" name="telefono" placeholder="Ej: 011-1234-5678">
+
+            <label for="servicio">Servicio de interés:</label>
+            <select id="servicio" name="servicio">
+                <option value="">-- Seleccionar --</option>
+                <option value="fdm">Impresión FDM (PLA / PETG)</option>
+                <option value="sla">Impresión en Resina (SLA)</option>
+                <option value="disenio">Diseño 3D</option>
+                <option value="otro">Otro / Consulta general</option>
+            </select>
+
+            <label for="mensaje">Mensaje:</label>
+            <textarea id="mensaje" name="mensaje" placeholder="Describí tu consulta o pedido..."></textarea>
+
+            <input type="submit" value="Enviar mensaje">
+
+        </form>
+
+        <h2>Otros medios de contacto</h2>
+        <p>Instagram: <a href="#">@print3d.studio</a></p>
+        <p>WhatsApp: 011-9999-8888</p>
+        <p>Email: print3dstudio@gmail.com</p>
+        <p>Dirección: Merlo, Buenos Aires (retiro por el local con previo aviso)</p>
+
+    </div>
+
+    <div id="pie">
+        <p>Grupo 1: Sabate Facundo, Amarilla Iara, Cabrera Thiago, Ivan Farias y Joel Miagaena</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
