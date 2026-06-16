@@ -67,6 +67,7 @@ HTML
 
 CSS
 
+JavaScript
 Visual Studio Code
 
 GitHub
