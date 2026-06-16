@@ -10,6 +10,8 @@ DNI=44788541
 
 Rol= Diseño CSS
 
+Javascript realizado de manera grupal.
+
 ---------------------------------------
 
 NOMBRE= Ivan Farias
@@ -20,6 +22,7 @@ DNI=45289468
 
 Rol= Desarrollo de la Web y del GitHup 
 
+Javascript realizado de manera grupal.
 ------------------------------------------
 
 NOMBRE=Cabrera Thiago
@@ -30,6 +33,7 @@ DNI= 47806478
 
 Rol= Diseño CSS
 
+Javascript realizado de manera grupal.
 ---------------------------------------------
 
 NOMBRE= Sabate Matias Facundo
@@ -40,6 +44,7 @@ DNI= 41543323
 
 Rol= Maqueta y Desarrollo de la Web 
 
+Javascript realizado de manera grupal.
 ---------------------------------------------
 
 NOMBRE= Joel Miagaena
@@ -50,6 +55,7 @@ DNI=35786622
 
 Rol= Desarrollo de la Web 
 
+Javascript realizado de manera grupal.
 ---------------------------------------------------
 
 DESCRIPCION PROYECTO
